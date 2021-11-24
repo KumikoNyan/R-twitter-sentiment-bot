@@ -7,7 +7,7 @@
 ╰╮╭╮╭┫╰━━┫╰━╯┃╰┫╰━╯┃╰━╯┃┃┃┃┃┃╰━━╮
 ╱╰╯╰╯╰━━━┻━━━┻━┻━━━┻━━━┻╯╰╯╰┻━━━╯
 
-This is a simple Twitter-sentiment-analysis bot. It collects hashtags (needs to be specified) and shows (3) data presentations. 
+This is a simple Twitter-sentiment-analysis bot. It collects and cleans hashtags (needs to be specified) and shows (3) data presentations. 
 - Frequency Graph
 - Histogram
 - Barplot
