@@ -31,6 +31,6 @@ This is a simple Twitter sentiment analysis bot. It collects, cleans hashtags, a
 4. Run the code.
 
 ## Notes
-Apparently, Twitter's API limits the number of extracted tweets (15,000 tweets) if your developer account is not granted elevated access. In order to solve this, pay their pricing on elevated access. 
+Apparently, Twitter's API limits the number of extracted tweets (15,000 tweets) if your developer account is not granted elevated access. In order to solve this, apply for elevated access or pay their pricing on elevated access. 
 
 by @KumikoNyan
