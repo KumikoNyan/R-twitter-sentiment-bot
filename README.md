@@ -18,7 +18,7 @@ This is a simple Twitter sentiment analysis bot. It collects, cleans hashtags, a
   - ```tm```
   - ```rtweet```
   - ```plyr```
-  - ```stringr``
+  - ```stringr```
   - ```ggplot2```
   - ```ggeasy```
   - ```dplyr```
